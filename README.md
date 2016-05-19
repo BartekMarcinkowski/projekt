@@ -1,1 +1,1 @@
-Drzewko projektu ze scenariuszami i skryptami w javie
+Projekt ze scenariuszami i skryptami w javie
